@@ -1,6 +1,14 @@
 {
     "players": ["Abby", "Andy", "Ashwin", "Jon", "Laurie", "Ste"],
     "scores": {
+        "2026-01-25": {
+          "Abby": 231,
+          "Andy": 232,
+          "Ashwin": 233,
+          "Jon": 234,
+          "Laurie": 235,
+          "Ste": 236
+        },
         "2026-01-26": {
           "Abby": 231,
           "Andy": 232,
